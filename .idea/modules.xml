@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amadeusUi/amadeusUi/amadeusUi.iml" filepath="$PROJECT_DIR$/amadeusUi/amadeusUi/amadeusUi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/case-study-amadeus.iml" filepath="$PROJECT_DIR$/.idea/case-study-amadeus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amadeusApi/amadeusapi/untitled.iml" filepath="$PROJECT_DIR$/amadeusApi/amadeusapi/untitled.iml" />
+    </modules>
+  </component>
+</project>
